@@ -1,4 +1,4 @@
-Daoyuan's homepage
+Chethana's homepage
 ===================
 
-https://daoyuan14.github.io/
+https://chethana.github.io/
